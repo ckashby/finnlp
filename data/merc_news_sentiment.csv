@@ -1,0 +1,493 @@
+date,headline,sentiment,neg_sentiment,neu_sentiment,pos_sentiment,compound_sentiment
+2009-08-17 12:14:00+00:00,"BenchmarkJournal.com Free Analyst Review for ABK, EQR, KMB, BBD, FIG and MRK",neutral,0.0,0.769,0.231,0.5106
+2009-09-18 07:38:00+00:00,Sanofi-aventis (SNY) Completes Acquisition of Merial ,neutral,0.0,1.0,0.0,0.0
+2009-11-04 20:38:00+00:00,"Fitch Downgrades Merck, Outlook Stable",mildly bearish,0.0,0.645,0.355,0.296
+2009-11-04 21:02:00+00:00,Merck Says It Won't Seek Another Larger Merger,mildly bullish,0.0,1.0,0.0,0.0
+2009-11-13 16:32:00+00:00,Merck (MRK) Drugs Under Scanner Of Cholesterol Study,neutral,0.0,1.0,0.0,0.0
+2009-11-16 11:22:00+00:00,JPMorgan Likes Abbott (ABT) Because of Niaspan,neutral,0.0,0.682,0.318,0.4215
+2010-01-08 19:22:00+00:00,"Investment Mantra 2010: Be Bullish On Mega Caps In ‘The Dogs Of The Dow’. (XOM, WFC, BA, CVX, DU, MCD, MRK, PFE) ",mildly bullish,0.0,1.0,0.0,0.0
+2010-01-14 14:22:00+00:00,"Stock Market News for January 14, 2010 - Market News",neutral,0.0,1.0,0.0,0.0
+2010-02-10 20:10:00+00:00,Merck & Co. (MRK) Agrees To Changes In Vioxx Settlement,neutral,0.0,0.816,0.184,0.2023
+2010-03-08 14:01:00+00:00,Simple Quantitative View of Goldman's VIP List Generates Some Other Long Ideas,neutral,0.0,0.732,0.268,0.6166
+2010-04-05 11:33:00+00:00,"U.S. Equity Market Preview (AAPL, EXC, HSP, ITMN, MRK)",neutral,0.0,1.0,0.0,0.0
+2010-05-12 10:27:00+00:00,"US Stocks End Lower Yesterday After Soaring On Monday, Dow And S&P Down, Nasdaq Bucks Trend",mildly bearish,0.128,0.872,0.0,-0.296
+2010-05-20 15:15:00+00:00,"All 30 Dow Components In The Red (MRK, GE)",mildly bearish,0.0,1.0,0.0,0.0
+2010-05-27 15:29:00+00:00,"Deutsche Bank Sees A Brighter Future for Drug Stocks (MRK, PFE)",mildly bullish,0.0,0.776,0.224,0.3818
+2010-06-29 20:42:00+00:00,Good News for NVO's Victoza - Analyst Blog,mildly bullish,0.0,0.674,0.326,0.4404
+2010-07-07 20:29:00+00:00,Puts Purchased on Millipore Corp. (MIL),neutral,0.0,1.0,0.0,0.0
+2010-07-27 13:15:00+00:00,Sanofi-aventis and Merck Appoint CEO for Joint Venture,neutral,0.0,1.0,0.0,0.0
+2010-07-28 22:39:00+00:00,Fast Money 360: Leerink Swann Is A Buyer Of Merck (MRK),mildly bullish,0.0,1.0,0.0,0.0
+2010-07-30 18:11:00+00:00,Hapoalim Securities Downgrades Merck to Hold from Buy (MRK),mildly bearish,0.0,0.784,0.216,0.296
+2010-08-04 14:26:00+00:00,"Zacks Analyst Blog Highlights: The Clorox, AstraZeneca, Merck, Dean Foods and Coach - Press Releases",neutral,0.0,1.0,0.0,0.0
+2010-08-09 21:52:00+00:00,Cost Reduction Lowers ENZN Loss - Analyst Blog,mildly bullish,0.432,0.568,0.0,-0.4215
+2010-08-26 13:32:00+00:00,A New Round Of Corporate Layoffs?,mildly bearish,0.0,1.0,0.0,0.0
+2010-08-30 15:20:00+00:00,Goldman Sachs Introduces And Adjusts Estimates For Major Pharmaceuticals,neutral,0.0,1.0,0.0,0.0
+2010-09-13 20:36:00+00:00,SurModics Stays Neutral - Analyst Blog,neutral,0.0,1.0,0.0,0.0
+2010-09-21 12:04:00+00:00,"Zacks Analyst Blog Highlights: ProShares UltraShort 20+ Year ETF, Pfizer, Merck, Ford and CarMax  - Press Releases",neutral,0.0,1.0,0.0,0.0
+2010-10-12 18:22:00+00:00,Highest Yielding Dow Jones Industrial Average Stocks,neutral,0.0,1.0,0.0,0.0
+2010-10-25 11:39:00+00:00,Citi Says Merger Should Help Merck (MRK),mildly bullish,0.0,0.69,0.31,0.4019
+2010-10-29 09:46:00+00:00,"Earnings Scheduled For October 29 (CVX, POM, CEG, MRK, PGN, NEE, SNE, D, EL, ITT, CI, WY, EIX, LNT)",neutral,0.0,1.0,0.0,0.0
+2010-10-29 13:03:00+00:00,"Merck Beats on EPS, Misses on Revs - Analyst Blog",mildly bearish,0.192,0.808,0.0,-0.2263
+2010-10-30 01:14:00+00:00,"Steve Grasso's Health Care Trades (UNH, CI, AET, AGP, HS, PFE, MRK, WLP)",neutral,0.0,0.789,0.211,0.4939
+2010-11-17 16:03:00+00:00,"Merck Adding To Its List Of Late stage Revenue Generating Assets, Citigroup Reports",mildly bullish,0.0,0.876,0.124,0.1779
+2010-11-22 13:29:00+00:00,Goldman Sachs Comments On Merck's SHARP Results,mildly bullish,0.0,1.0,0.0,0.0
+2010-11-24 09:11:00+00:00,"Stock Market News for November 24, 2010 - Market News",neutral,0.0,1.0,0.0,0.0
+2010-11-30 09:28:00+00:00,Merck Halts Isentress Study - Analyst Blog,mildly bearish,0.0,1.0,0.0,0.0
+2010-12-01 13:58:00+00:00,SurModics Cut to Underperform - Analyst Blog,mildly bearish,0.296,0.704,0.0,-0.2732
+2010-12-02 09:26:00+00:00,Merck May Buy Biotech Firm SmartCells,mildly bullish,0.0,1.0,0.0,0.0
+2010-12-06 16:20:00+00:00,Change at Pfizer's Helm - Analyst Blog,neutral,0.0,1.0,0.0,0.0
+2010-12-15 18:03:00+00:00,CPI: Inflation Still Tame - Analyst Blog,neutral,0.0,1.0,0.0,0.0
+2010-12-30 19:23:00+00:00,"XOMA Shares Climb 8.6% (XOMA, NVG, MRK)",neutral,0.0,0.732,0.268,0.296
+2011-01-14 12:19:00+00:00,Jefferies Cuts Price Target On Merck (MRK),mildly bearish,0.268,0.732,0.0,-0.296
+2011-01-17 14:13:00+00:00,"Company News for January 17, 2011 - Corporate Summary",neutral,0.0,1.0,0.0,0.0
+2011-01-21 12:10:00+00:00,Deutsche Bank Lowers PT On Merck & Co.,mildly bearish,0.2,0.8,0.0,-0.128
+2011-01-21 12:42:00+00:00,"Deutsche Bank Lowers MRK Target To $43, Reiterates Buy Rating",mildly bullish,0.143,0.857,0.0,-0.128
+2011-01-28 18:12:00+00:00,AstraZeneca Revenues Disappoint - Analyst Blog,neutral,0.403,0.597,0.0,-0.4019
+2011-02-03 17:48:00+00:00,Merck Beats but Guides Lower - Analyst Blog,mildly bearish,0.318,0.682,0.0,-0.4215
+2011-03-16 19:59:00+00:00,"Some High Dividend Paying Stocks For A Weak Market (MO, MRK, JNJ, NLY)",neutral,0.209,0.791,0.0,-0.4404
+2011-03-25 11:33:00+00:00,"Citi Comments On MRK's Return Of Betrixaban, Maintains EPS Estimate",neutral,0.0,1.0,0.0,0.0
+2011-04-25 12:35:00+00:00,"Rwanda, Merck and QIAGEN Launch Africa's First Comprehensive Cervical Cancer Prevention Program Incorporating Both HPV Vaccination and HPV Testing   ",mildly bullish,0.188,0.726,0.085,-0.5267
+2011-04-27 11:45:00+00:00,Merck Announces New $5 Billion Share Repurchase Program (MRK),mildly bullish,0.0,0.784,0.216,0.296
+2011-04-27 12:00:00+00:00,Deutsche Bank To Hold 36th Annual Healthcare Conference Next Week,neutral,0.0,1.0,0.0,0.0
+2011-04-27 20:54:00+00:00,VICTRELIS™ Unanimously Recommended for Approval by FDA Advisory Committee (MRK),mildly bullish,0.0,0.62,0.38,0.5994
+2011-04-29 10:21:00+00:00,"US Stock Futures Mixed As Investors Await Economic Data, Earnings Reports; Research In Motion Shares Decline In Pre-Market trading",neutral,0.0,0.825,0.175,0.3818
+2011-04-29 22:35:00+00:00,Royal Put(z) Not to Be Confused with Married Put(z)  04-29-2011,neutral,0.0,0.821,0.179,0.2411
+2011-05-16 11:31:00+00:00,Bank Of America Raises PT To $29 On MRK,mildly bullish,0.0,1.0,0.0,0.0
+2011-05-16 12:16:00+00:00,Deutsche Bank Comments on Victrelis FDA Approval,neutral,0.0,0.659,0.341,0.4767
+2011-05-17 15:30:00+00:00,Merck and Roche Establish Strategic Agreements in Fight Against Chronic Hepatitis C ,mildly bullish,0.19,0.657,0.153,-0.128
+2011-06-03 13:26:00+00:00,"Pimco's Gross Likes P&G and Merck, Offer Better Yields and Conservative -Bloomberg",mildly bullish,0.174,0.506,0.32,0.3818
+2011-06-09 16:22:00+00:00,5-Alpha Reductase Inhibitors May Increase Risk of Prostate Cancer -FDA,mildly bearish,0.506,0.357,0.137,-0.7351
+2011-07-07 13:16:00+00:00,Goldman Sachs Suggests Buying Calls on Merck & Co.,mildly bullish,0.0,1.0,0.0,0.0
+2011-07-18 12:06:00+00:00,Merck's ISENTRESS in Combination Therapy Demonstrated Efficacy in a Phase II Study Extending to Nearly Five Years in Previously Untreated Adults with HIV-1 ,mildly bullish,0.0,1.0,0.0,0.0
+2011-07-19 14:14:00+00:00,Dow Jones Industrial Average Companies Increase Expected Dividend Distribution by 12.66% From a Year Ago,mildly bullish,0.0,0.85,0.15,0.3182
+2011-07-29 11:02:00+00:00,Merck Guides FY 2011 EPS $3.68-$3.76 vs $3.74 Est,mildly bearish,0.0,1.0,0.0,0.0
+2011-07-29 20:16:00+00:00,5 Stocks You Can Buy for Less Than Bill Gates Paid,mildly bullish,0.0,1.0,0.0,0.0
+2011-08-02 19:53:00+00:00,"Aw Snap, Is Market Gonna Crackle or Pop?",neutral,0.0,1.0,0.0,0.0
+2011-08-30 11:03:00+00:00,Merck Millipore Strengthens Bioscience Business by acquiring Amnis Corporation,mildly bullish,0.0,0.727,0.273,0.4588
+2011-09-08 03:25:00+00:00,Stocks Going Ex Dividend the Third Week of September,neutral,0.0,1.0,0.0,0.0
+2011-09-13 22:30:00+00:00,Merck Issues Statement on HPV Vaccine,neutral,0.0,1.0,0.0,0.0
+2011-09-28 20:10:00+00:00,Merck Sells Its Interest in Johnson & Johnson-Merck Consumer Pharmaceuticals for $175M   ,mildly bullish,0.0,0.769,0.231,0.4588
+2011-09-30 14:55:00+00:00,Merck Announces New Data Analyses for VICTRELIS will be Presented at The American Association for the Study of Liver Diseases 2011 Annual Meeting   ,neutral,0.0,1.0,0.0,0.0
+2011-10-28 07:33:00+00:00,Earnings Scheduled For October 28,neutral,0.0,1.0,0.0,0.0
+2012-01-03 14:30:00+00:00,Merck & Hits 52-Week High of $37.98,mildly bullish,0.0,1.0,0.0,0.0
+2012-01-04 18:40:00+00:00,Bark At The Dow's Dogs With These ETFs,neutral,0.0,1.0,0.0,0.0
+2012-01-18 23:53:00+00:00,"Benzinga's M&A Chatter for Wednesday January 18, 2012",neutral,0.0,1.0,0.0,0.0
+2012-01-20 16:00:00+00:00,What's the Future Like For Health Care?,neutral,0.0,0.467,0.533,0.6908
+2012-01-25 13:34:00+00:00,UPDATE: Merck: FDA Did Not Approve New Indication For Vytorin Because of Study Design,mildly bearish,0.0,1.0,0.0,0.0
+2012-01-26 01:04:00+00:00,"Benzinga's M&A Chatter for Wednesday January 25, 2012",neutral,0.0,1.0,0.0,0.0
+2012-02-13 15:15:00+00:00,"FDA Approves ZIOPTAN, Merck's Once-Daily, Preservative-Free Ophthalmic Medication",mildly bullish,0.0,0.722,0.278,0.4019
+2012-03-07 12:26:00+00:00,From Earlier: Merck Announces Results from Investigational Studies with VICTRELIS Presented at the Conference on Retroviruses and Opportunistic Infections to Understand Potential Use in Patients Coinfected with Chronic Hepatitis C and HIV-1  ,neutral,0.035,0.965,0.0,-0.0258
+2012-03-12 22:39:00+00:00,"Benzinga's M&A Chatter for  Monday March 12, 2012",neutral,0.0,1.0,0.0,0.0
+2012-03-26 14:09:00+00:00,Merck Reports C$35M Investment and Start of Merck Lumira Fund,mildly bullish,0.0,1.0,0.0,0.0
+2012-03-27 15:25:00+00:00,"Merck Spokesperson, Responding to Chatter of $26 Offer for Amarin, Says Company Policy is Not to Respond to Rumors Regarding Business Development Deals",neutral,0.0,1.0,0.0,0.0
+2012-03-27 23:50:00+00:00,"Benzinga's M&A Chatter for Tuesday March 27, 2012",neutral,0.0,1.0,0.0,0.0
+2012-04-03 22:47:00+00:00,Merck,neutral,0.0,1.0,0.0,0.0
+2012-04-16 11:30:00+00:00,Endocyte Resumes Trading,neutral,0.0,1.0,0.0,0.0
+2012-04-19 11:00:00+00:00,Merck Reports Phase III Study Results Evaluating Anaemia Management Strategies Used With VICTRELIS® (boceprevir) Combination Therapy   ,neutral,0.0,1.0,0.0,0.0
+2012-04-22 15:23:00+00:00,"Earnings Expectations for the Week of April 23 (AAPL, XOM, UPS)",neutral,0.0,1.0,0.0,0.0
+2012-04-30 19:43:00+00:00,New Kids: Do These New ETFs Have The Right Stuff?,neutral,0.0,1.0,0.0,0.0
+2012-05-15 18:31:00+00:00,"S&P Bullish On Biotech ETFs (FBT, IBB, XBI)",mildly bullish,0.0,1.0,0.0,0.0
+2012-05-31 12:49:00+00:00,Merck CEO Says He Isn't Interested in Breaking Up the Company -Bloomberg,neutral,0.17,0.83,0.0,-0.3089
+2012-06-05 20:37:00+00:00,"Merck Gets Response Letter for Ridaforolimus, Says Added Clinical Trials Would Need to be Conducted; In Talks with EU Health Authorities -Bloomberg",neutral,0.0,1.0,0.0,0.0
+2012-06-14 12:25:00+00:00,Johnson & Johnson to Complete Synthes Acquisition ,neutral,0.0,1.0,0.0,0.0
+2012-06-26 15:57:00+00:00,Amylin Pharmaceuticals Spiking to Highs on Earlier Bid Reports,neutral,0.0,1.0,0.0,0.0
+2012-06-26 17:17:00+00:00,Spokesperson for Amylin Pharmaceuticals Won't Comment on Rumor of Bids from Pharma Companies,neutral,0.0,1.0,0.0,0.0
+2012-06-29 16:51:00+00:00,ALPS Unveils Dogs of the Dow ETF,neutral,0.0,1.0,0.0,0.0
+2012-07-10 20:05:00+00:00,"Deutsche Bank Maintains Merck & at Buy, Raises PT from $43 to $47.25",mildly bullish,0.0,1.0,0.0,0.0
+2012-07-12 09:52:00+00:00,"Citigroup Upgrades Merck & from Neutral to Buy, Raises PT from $34 to $50",mildly bullish,0.0,1.0,0.0,0.0
+2012-07-12 14:48:00+00:00,UPDATE: Citigroup Upgrades Merck; Raises PT,mildly bullish,0.0,1.0,0.0,0.0
+2012-07-17 15:38:00+00:00,Merck Says Court Approves Proposed Erisa Settlement,neutral,0.0,0.69,0.31,0.4019
+2012-07-27 11:01:00+00:00,Merck & Reports Q2 EPS $1.05 vs $1.01 Est; Revenues $12.2B vs $12.15B Est,mildly bullish,0.0,1.0,0.0,0.0
+2012-08-24 11:13:00+00:00,"Bank of America Downgrades Merck & from Buy to Neutral, Announces PO of $45",mildly bearish,0.265,0.735,0.0,-0.6523
+2012-08-24 16:05:00+00:00,"UPDATE: Bank of America Merrill Lynch Downgrades Merck to Neutral, Reiterates $45 PT",mildly bearish,0.0,1.0,0.0,0.0
+2012-10-09 12:10:00+00:00,Merck to Move Global Headquarters Within New Jersey  ,neutral,0.0,1.0,0.0,0.0
+2012-10-13 19:27:00+00:00,Merck BMD Data from a Phase II Study of Odanacatib Shows Significantly Increased Bone Mineral Density,mildly bullish,0.0,0.87,0.13,0.2732
+2012-10-15 10:16:00+00:00,"AiCuris, Merck Enter Exclusive Worldwide License Agreement ",mildly bullish,0.0,0.515,0.485,0.5719
+2012-10-15 16:12:00+00:00,"Barclays Maintains Merck & at Overweight, Raises PT from $46 to $50",mildly bullish,0.2,0.8,0.0,-0.3612
+2012-11-14 13:58:00+00:00,These ETFs Offer Solid Yield in Uncertain Times,mildly bullish,0.224,0.612,0.163,-0.1531
+2012-11-20 17:11:00+00:00,"MKM Partners Upgrades Merck & from Neutral to Buy, Raises PT from $47 to $51",mildly bullish,0.0,1.0,0.0,0.0
+2012-12-11 22:23:00+00:00,"Benzinga's M&A Chatter for Tuesday December 11, 2012",neutral,0.0,1.0,0.0,0.0
+2012-12-18 12:31:00+00:00,"Merck, GE Healthcare Announce Collaboration on Use of Imaging Biomarkers for Investigational BACE Inhibitor Program",mildly bullish,0.085,0.915,0.0,-0.0772
+2013-01-02 21:47:00+00:00,"Merck Says FDA Acknowledged Resubmission of NDA for Ezetimibe, Atorvastatin Tablets",neutral,0.0,1.0,0.0,0.0
+2013-01-07 13:01:00+00:00,Merck Receives FDA Acceptance of Resubmission of NDA for Sugammadex Sodium Injection,mildly bullish,0.0,0.786,0.214,0.4588
+2013-02-05 12:41:00+00:00,"Merck Serono, Opexa Therapeutics Enter Option, License Agreement for Development of Tcelna",mildly bullish,0.0,0.775,0.225,0.4939
+2013-03-04 11:23:00+00:00,"Bank of America Upgrades Merck & Company, Inc. to Buy, Maintains $47.00 PO",mildly bullish,0.283,0.717,0.0,-0.6523
+2013-03-04 12:10:00+00:00,UPDATE: Bank of America Upgrades Merck to Buy; Pullback Creates Meaningful Upside Potential,mildly bullish,0.0,0.714,0.286,0.5267
+2013-03-25 12:53:00+00:00,"Bank of America Reiterates Buy Rating, $47 PT on Merck & Co. Ahead of Potential Approvals",mildly bullish,0.0,1.0,0.0,0.0
+2013-04-10 12:04:00+00:00,"Jefferies Maintains Hold on Merck & Company, Inc., Raises PT to $48.00",mildly bullish,0.0,1.0,0.0,0.0
+2013-04-10 16:11:00+00:00,UPDATE: Jefferies Raises PT on Merck & Co. on Positive Outlook,mildly bullish,0.0,0.714,0.286,0.5574
+2013-04-11 15:21:00+00:00,"Court Says Merck Victory Upholding Vytorin Patents Will Stand, Says Mylan Can't Sell Copies of Vytorin, Zetia Before Apr. 2017",mildly bullish,0.0,1.0,0.0,0.0
+2013-05-01 11:04:00+00:00,"Merck & Company, Inc. Reports Q1 EPS of $0.85 vs $0.79 Est; Revenue of $10.70B vs $11.09B Est",mildly bearish,0.0,1.0,0.0,0.0
+2013-05-01 11:14:00+00:00,Merck Announces New $15B Buyback Plan,mildly bullish,0.0,1.0,0.0,0.0
+2013-05-22 11:36:00+00:00,Merck FDA Advisory Committee Meeting for Insomnia Drug Suvorexant Begins at 8 AM ET,neutral,0.0,1.0,0.0,0.0
+2013-05-22 20:17:00+00:00,FDA Panel Votes 13-3 Merck's Suvorexant is Safe in Low Doses,mildly bullish,0.15,0.643,0.207,0.2023
+2013-05-28 14:50:00+00:00,"UPDATE: Jefferies Upgrades Merck to Buy, Raises PT Following SOTP Analysis",mildly bullish,0.0,1.0,0.0,0.0
+2013-06-03 12:10:00+00:00,Benzinga's Top Pre-Market Gainers,neutral,0.0,0.625,0.375,0.2023
+2013-06-10 15:40:00+00:00,Merck Loses US Appeal of Apotex Patent Win Over Nasonex,mildly bearish,0.163,0.567,0.27,0.3612
+2013-07-01 21:05:00+00:00,FDA Approves New U.S. Labeling for ISENTRESS® (raltegravir) to Include 240-Week Results from STARTMRK Study of ISENTRESS Containing Regimen in Previously Untreated HIV-1 Infected Adult Patients ,mildly bullish,0.107,0.803,0.09,-0.128
+2013-07-16 15:30:00+00:00,Eli Lilly Tries Again with Alzheimer's Drug as the Race for a Cure Continues (LLY),neutral,0.0,1.0,0.0,0.0
+2013-07-26 13:15:00+00:00,"Merck Statement Regarding CHMP Review of Incretin-Based Therapies for Type 2 Diabetes, Including Sitagliptin ",neutral,0.0,1.0,0.0,0.0
+2013-07-31 10:33:00+00:00,"Benzinga Market Primer: Wednesday, July 31: Futures Higher Heading Into FOMC Decision",neutral,0.0,1.0,0.0,0.0
+2013-07-31 10:41:00+00:00,Bionomics Signs Option and License Agreement With Merck ,mildly bullish,0.0,0.686,0.314,0.4939
+2013-08-14 15:08:00+00:00,"13F from Leon Cooperman's Omega Advisors Shows New Stakes in Thermo-Fisher, McKesson, Liquidated Stakes in Freeport-McMoRan, Facebook, Covidien, Raised Stakes in DISH, Citi, Lowered Stakes in Merck, AIG, Polycom",mildly bearish,0.051,0.949,0.0,-0.128
+2013-09-04 19:56:00+00:00,Merck's Durham Site Receives US FDA License for Varicella Bulk,mildly bullish,0.0,1.0,0.0,0.0
+2013-10-01 11:32:00+00:00,"Merck Cutting 8,500 Jobs Related to Global Initiative to 'Sharpen Commercial, R&D Focus,' Sees Pretax Charge $2.5-3B, Reaffirms FY13 Outlook",mildly bearish,0.073,0.927,0.0,-0.128
+2013-10-01 12:30:00+00:00,"Merck Says Will Close Summit Campus, Will Move Global HQ to Kenilworth",neutral,0.0,1.0,0.0,0.0
+2013-10-01 17:03:00+00:00,Merck Says Interim Data for MK-3475 to be Presented at 15th World Conference on Lung Cancer,mildly bullish,0.227,0.773,0.0,-0.6597
+2013-10-07 12:12:00+00:00,Merck Says Data Shows Cognigram as Sensitive Assessment,mildly bullish,0.0,1.0,0.0,0.0
+2013-10-08 20:57:00+00:00,"Credit Suisse Starts Pfizer, Bristol-Myers, AbbVie, Allergan at Outperform, Merck, Eli Lilly, Forest Labs at Neutral",neutral,0.0,0.852,0.148,0.3818
+2013-10-14 10:52:00+00:00,"Bernstein Downgrades Merck & Company, Inc. to Market Perform, Lowers PT to $50.00",mildly bearish,0.12,0.88,0.0,-0.128
+2013-10-14 11:46:00+00:00,Benzinga's Top Downgrades,neutral,0.0,0.526,0.474,0.2023
+2013-10-24 14:28:00+00:00,"Merck Says Primary Endpoints Met for Investigational 9-Valent HPV Vaccine, Expecting to Submit BLA for V503 in 2013",mildly bullish,0.0,1.0,0.0,0.0
+2013-10-24 14:28:00+00:00,"Merck Says Primary Endpoints Met for Investigational 9-Valent HPV Vaccine, Expecting to Submit BLA for V503 in 2013",mildly bullish,0.0,1.0,0.0,0.0
+2013-10-25 20:18:00+00:00,Benzinga Weekly Preview: FOMC Meeting Closely Watched,neutral,0.0,1.0,0.0,0.0
+2013-10-28 09:27:00+00:00,"Stocks To Watch For October 28, 2013",neutral,0.0,1.0,0.0,0.0
+2013-12-10 12:10:00+00:00,Merck Says Data Monitoring Committee Recommending Continuation of Phase II/III EPOCH Study for MK-8931,mildly bullish,0.0,1.0,0.0,0.0
+2014-01-27 21:48:00+00:00,"Market Wrap For January 27: China Concerns, Declining Home Sales, Tomorrow's Fed Meeting and Obama's Speech Keep Markets Lower",mildly bearish,0.109,0.891,0.0,-0.296
+2014-02-04 12:50:00+00:00,"SunTrust Robinson Humphrey Upgrades Merck & Company, Inc. to Buy",mildly bullish,0.0,1.0,0.0,0.0
+2014-02-05 12:14:00+00:00,"Merck & Company, Inc. Sees FY2014 EPS $3.35-3.53 vs $3.47 Est; Sees Sales $42.40B-43.20B vs $43.54B Est",mildly bearish,0.0,1.0,0.0,0.0
+2014-03-03 15:39:00+00:00,The Top Five Dow Stocks In February,mildly bullish,0.0,0.769,0.231,0.2023
+2014-03-14 17:43:00+00:00,FDA Approves Merck Noxafi Injection for Intravenous Use ,mildly bullish,0.0,0.722,0.278,0.4019
+2014-03-21 12:07:00+00:00,"Merck, Endocyte Announce European CHMP Positive Opinions for VYNFINIT, Companion Agents FOLCEPRI, NEOCEPRI",mildly bullish,0.0,0.769,0.231,0.5574
+2014-03-21 12:17:00+00:00,Benzinga's Top #PreMarket Gainers,neutral,0.0,0.625,0.375,0.2023
+2014-04-29 19:41:00+00:00,"Bids for Merck Consumer-Health Unit Said to Be Over $14B, Bayer Looking to Weigh JV with Merck as Part of Offer - Bloomberg",mildly bullish,0.0,1.0,0.0,0.0
+2014-05-02 15:05:00+00:00,#Premarket Preo Technical Update - Merck Trading Lower,mildly bearish,0.268,0.732,0.0,-0.296
+2014-05-16 12:03:00+00:00,"Chimerix Announces Has Regained Worldwide Rights to CMX157 from Merck, Says Co. Will No Longer Pursue Development",mildly bearish,0.121,0.879,0.0,-0.296
+2014-05-19 21:01:00+00:00,"Merck, Endocyte Report Withrdrawal of Conditional Marketing Authorization for Vintafolide, Companion Imaging from EMA",strongly bearish,0.0,1.0,0.0,0.0
+2014-05-23 18:19:00+00:00,#Premarket Technical Update - Merck Trading Higher,mildly bullish,0.0,1.0,0.0,0.0
+2014-05-30 13:20:00+00:00,"Merck Announces Generic Name for MK-3475, Pembrolizumab",neutral,0.0,1.0,0.0,0.0
+2014-06-04 18:08:00+00:00,ASCO Meeting Day 4: Risks And Rewards Of Immunotherapy,neutral,0.172,0.574,0.254,0.25
+2014-06-06 15:44:00+00:00,#Premarket Prep Technical Update - Merck Trading Lower,mildly bearish,0.268,0.732,0.0,-0.296
+2014-06-12 11:59:00+00:00,UPDATE: Bank Of America Reiterates On Merck & Co. On Higher Sales Estimates,mildly bullish,0.0,1.0,0.0,0.0
+2014-06-12 15:23:00+00:00,"UPDATE: Merck Research Head Says Company Aims to Capture Big Share of Hep C Market, Selling Best Drugs at Fair Cost",mildly bullish,0.0,0.661,0.339,0.8271
+2014-06-30 12:02:00+00:00,Merck Announces Investigational Data From Phase 3 Emend,mildly bullish,0.0,1.0,0.0,0.0
+2014-07-07 20:37:00+00:00,Markets Marginally Lower Ahead Of Earnings Season,neutral,0.241,0.759,0.0,-0.228
+2014-07-29 15:00:00+00:00,Markets Open Higher; Merck Posts Upbeat Profit,mildly bullish,0.0,0.674,0.326,0.4404
+2014-07-29 18:27:00+00:00,#Premarket Prep Technical Update - Merck Trading Higher,mildly bullish,0.0,1.0,0.0,0.0
+2014-09-26 18:26:00+00:00,"Fast Money Halftime Report Final Trade From September 26 - Merck & Co., Inc., NCR Corporation And BP plc",neutral,0.0,1.0,0.0,0.0
+2014-10-03 18:27:00+00:00,#Premarket Prep Technical Update - Merck Trading Higher,mildly bullish,0.0,1.0,0.0,0.0
+2014-10-06 09:18:00+00:00,Merck Commences Public Debt Offering ,neutral,0.385,0.615,0.0,-0.3612
+2014-10-08 18:40:00+00:00,#Premarket Prep Technical Update - Merck Trading Sharply Higher,mildly bullish,0.0,1.0,0.0,0.0
+2014-10-26 20:55:00+00:00,"Earnings Expectations For The Week Of October 27: Facebook, Exxon, Pfizer And Much More",neutral,0.0,1.0,0.0,0.0
+2014-10-27 09:06:00+00:00,"Earnings Scheduled For October 27, 2014",neutral,0.0,1.0,0.0,0.0
+2014-10-27 16:41:00+00:00,Mid-Day Market Update: Micron Gains On Buyback Announcement; Sarepta Shares Dip,neutral,0.0,0.662,0.338,0.5574
+2014-10-27 19:34:00+00:00,Merck Conference Call Highlights,neutral,0.0,1.0,0.0,0.0
+2014-10-28 12:00:00+00:00,"#PreMarket Primer: Tuesday, October 28: CDC Warns That Involuntary Quarantines Could Discourage Progress On Ebola",neutral,0.221,0.632,0.147,-0.1027
+2014-11-10 00:04:00+00:00,Interim Data from C-SWIFT Study of Merck's Investigational Hepatitis C Treatment Grazoprevir/Elbasvir in Combination with a Nucleotide Inhibitor Presented at The Liver Meeting,mildly bullish,0.061,0.939,0.0,-0.0772
+2014-11-24 12:30:00+00:00,"Merck, NewLink Genetics Report Entering of Licensing, Collaboration Deal for Investigational Ebola Vaccine",mildly bullish,0.0,1.0,0.0,0.0
+2014-12-06 04:14:00+00:00,Merck in Talks to Acquire Cubist Pharmaceuticals for More Than $7B; Could be Announced as Early as Next Week -NYT Dealbook,mildly bullish,0.0,1.0,0.0,0.0
+2014-12-06 04:24:00+00:00,Merck in Talks to Acquire Cubist for ~$100/Share,mildly bullish,0.0,1.0,0.0,0.0
+2014-12-07 23:24:00+00:00,Benzinga's Weekend M&A Chatter,neutral,0.0,1.0,0.0,0.0
+2014-12-08 15:20:00+00:00,Benzinga's Volume Movers,neutral,0.0,1.0,0.0,0.0
+2014-12-08 22:43:00+00:00,3 Biotech ETFs Rally On Merger News,mildly bullish,0.0,1.0,0.0,0.0
+2014-12-09 20:02:00+00:00,Zoetis Inc. Spikes Briefly On Remarks From Sanofi CEO,neutral,0.0,1.0,0.0,0.0
+2014-12-19 13:01:00+00:00,Merck Begins Tender Offer To Acquire Cubist,mildly bullish,0.0,1.0,0.0,0.0
+2014-12-22 19:11:00+00:00,#Premarket Prep Technical Update - Merck Lower,mildly bearish,0.306,0.694,0.0,-0.296
+2014-12-23 20:22:00+00:00,"FTC Requests Public Comment on Merck & Co., Inc.'s Application to Approve Sale of Facilities",neutral,0.0,1.0,0.0,0.0
+2015-01-15 11:26:00+00:00,Fast Money Halftime Report Final Trade From January 14,neutral,0.0,1.0,0.0,0.0
+2015-01-29 16:56:00+00:00,#Premarket Prep Technical Update - Merck Lower,mildly bearish,0.306,0.694,0.0,-0.296
+2015-01-29 16:56:00+00:00,#Premarket Prep Technical Update - Merck Lower,mildly bearish,0.306,0.694,0.0,-0.296
+2015-02-04 10:13:00+00:00,"Earning & Economic Calendar for Wednesday February 4, 2015",neutral,0.0,1.0,0.0,0.0
+2015-02-04 12:05:00+00:00,"Merck Sees FY15 Adj. EPS $3.32-$3.47 Including Items, Sales $38.3B-$39.8B Including Items",mildly bullish,0.0,1.0,0.0,0.0
+2015-02-04 13:03:00+00:00,"UPDATE: Merck Posts Upbeat Q4 Earnings, Sales Decline",mildly bullish,0.0,1.0,0.0,0.0
+2015-02-06 00:58:00+00:00,Merck Prices $8B Debt Offering,neutral,0.385,0.615,0.0,-0.3612
+2015-02-06 20:28:00+00:00,"After A Blockbuster 2014, What Will 2015 Hold For Pharmaceutical M&A?",neutral,0.0,0.698,0.302,0.5994
+2015-02-19 13:41:00+00:00,NewLink Genetics Announces $20M Milestone Payment From MERCK,mildly bullish,0.0,1.0,0.0,0.0
+2015-02-23 12:06:00+00:00,UPDATE: Merck to Make Upfront Payment  NGM of $94M; Acquire 15% Stake in NGM for $106M,mildly bullish,0.0,1.0,0.0,0.0
+2015-02-24 09:43:00+00:00,Merck Collaborates with Medicines Patent Pool to Expand Access to Pediatric Formulations of Raltegravir in Developing Countries,mildly bullish,0.0,0.874,0.126,0.3182
+2015-03-13 20:02:00+00:00,Merck Provides Regulatory Update On Sugammadex Injection,neutral,0.0,1.0,0.0,0.0
+2015-03-16 19:35:00+00:00,Merck Announced Results From Investigational IMPROVE-IT Study That Shows VYTORIN Reduced Total Cardiovascular Events By 9% Vs. SIMVASTATIN,mildly bullish,0.0,1.0,0.0,0.0
+2015-04-08 11:04:00+00:00,"Grazoprevir/Elbasvir, Merck's Investigational Chronic Hepatitis C Therapy, Granted FDA Breakthrough Therapy Designations; New Phase 2, 3 Data in Multiple HCV Patient Types Will Be Presented At The International Liver Congress TM 2015",mildly bullish,0.0,0.935,0.065,0.25
+2015-04-17 20:31:00+00:00,It's A Big Weekend For Biotech,neutral,0.0,1.0,0.0,0.0
+2015-04-20 12:05:00+00:00,"Tetralogic Announces Co., Merck Will Collaborate Related to Evaluation of Birinapant In Combo With KEYTRUDA in Solid Tumors",mildly bullish,0.0,0.914,0.086,0.1531
+2015-04-22 16:54:00+00:00,"Goat Plague (PPR) Affecting Herds in Africa, Asia -Reuters",neutral,0.0,1.0,0.0,0.0
+2015-04-28 11:03:00+00:00,"Merck Raises FY15 Adj. EPS Outlook from $3.32-$3.47 Previously to $3.35-$3.48 vs $3.37 Est., Affirms Sales Outlook",mildly bullish,0.0,1.0,0.0,0.0
+2015-04-28 13:30:00+00:00,Bank Of America On Merck: 'MAGNIF-TECOS!',mildly bullish,0.0,1.0,0.0,0.0
+2015-04-28 13:45:00+00:00,Morning Market Gainers,neutral,0.0,1.0,0.0,0.0
+2015-05-22 17:57:00+00:00,Expert Explains How To Play Merck In 2 Charts,neutral,0.0,0.745,0.255,0.34
+2015-05-29 12:31:00+00:00,"Amgen, Merck Report Expansion of Collaboration to Support Studies of Talimogene Laherparepvec in Combo with KEYTRUDA in Patients with Head and Neck Cancer",mildly bullish,0.157,0.747,0.096,-0.4019
+2015-06-08 16:10:00+00:00,UPDATE: Celgene Shares at High Following Early Rumored Bid from Merck,mildly bullish,0.0,0.82,0.18,0.296
+2015-06-09 00:17:00+00:00,"Benzinga's M&A Chatter for  Monday June 8, 2015",neutral,0.0,1.0,0.0,0.0
+2015-06-10 12:46:00+00:00,"Merck, Samsung Bioepis Report Pivotal Phase 3 Studies for Investigational Biosimilars SB4, Enbrel (Etanercept), and SB2, Remicade (Infliximab), Met Primary Endpoints",mildly bullish,0.0,1.0,0.0,0.0
+2015-06-16 13:55:00+00:00,Hearing Merck Approached Dublin Based Alkermes With $12.4B Offer-Market Sources,mildly bullish,0.0,1.0,0.0,0.0
+2015-06-17 20:13:00+00:00,Hearing Dept. of Justice Has Said Merck's Inspire Pharma to Pay $5.9M to Settle Civil Claims of Fraud,mildly bearish,0.198,0.532,0.27,0.4404
+2015-06-29 12:31:00+00:00,Merck Announces Phase 3 Study of Single-Dose EMEND® (fosaprepitant dimeglumine) for Injection Regimen Met Primary Endpoint,mildly bullish,0.0,1.0,0.0,0.0
+2015-07-06 16:16:00+00:00,9 Top Sell Ideas From Oppenheimer's Technical Analysis Division,neutral,0.0,0.795,0.205,0.2023
+2015-07-09 12:56:00+00:00,"Barclays Expects M&A In Specialty Pharma To Continue, Likes Valeant And Jazz",mildly bullish,0.0,0.797,0.203,0.4215
+2015-08-13 10:35:00+00:00,"BMO Capital Upgrades Merck & Co to Outperform, Raises PT to $70.00",mildly bullish,0.0,1.0,0.0,0.0
+2015-08-13 13:13:00+00:00,Benzinga's Top Upgrades,neutral,0.0,0.526,0.474,0.2023
+2015-08-13 13:14:00+00:00,Good Data May Be Coming For Merck (And This Analyst Is Bullish),mildly bullish,0.0,0.791,0.209,0.4404
+2015-08-24 16:57:00+00:00,Sierra Leone Released its Last Confirmed Ebola Patient from Hospital on Monday -Reuters,neutral,0.0,1.0,0.0,0.0
+2015-08-31 00:37:00+00:00,Barron's Recap: What's Next?,neutral,0.0,1.0,0.0,0.0
+2015-09-01 13:06:00+00:00,New Analyses from the IMPROVE-IT Study with VYTORIN (ezetimibe and simvastatin),neutral,0.0,1.0,0.0,0.0
+2015-09-01 18:40:00+00:00,"Hearing Buyside Volume Coming Into Staples, Drug, And Chemical Names",mildly bullish,0.0,1.0,0.0,0.0
+2015-09-08 11:59:00+00:00,MKM Partners Would Sell These Healthcare Stocks On Weaker Relative Trends,mildly bearish,0.225,0.775,0.0,-0.4404
+2015-09-18 15:00:00+00:00,"Eli Lilly's 'Home Run' Is Jardiance, Says Morgan Stanley",mildly bullish,0.0,1.0,0.0,0.0
+2015-10-02 17:44:00+00:00,FDA Approves Merck's Keytruda For Advanced Non-Small Cell Lung Cancer,mildly bullish,0.273,0.435,0.292,-0.1779
+2015-11-03 11:58:00+00:00,"GSK, Merck to Study Immunotherapy Combination as Potential Cancer Treatment",mildly bullish,0.328,0.672,0.0,-0.6597
+2015-11-05 13:43:00+00:00,Merck Announces Samsung Bioepis Will Present New Biosimilars Data at the 2015 ACR/ARHP Annual Meeting,neutral,0.0,1.0,0.0,0.0
+2015-11-18 12:00:00+00:00,"Merck, Darmstadt, Pfizer Report FDA Breakthrough Therapy Designation for Avelumab in Metastatic Merkel Cell Carcinoma",mildly bullish,0.0,1.0,0.0,0.0
+2015-11-22 01:55:00+00:00,Merck Announces Initial Results for KEYTRUDA with Novel Immunotherapy Combinations from Three Investigational Studies Presented at the Society for Melanoma Research International Congress,mildly bullish,0.0,0.905,0.095,0.3182
+2015-11-24 09:26:00+00:00,15-Year Old Boy is First Ebola Fatality in Liberia Since Country was Declared Ebola Free in September -Reuters,strongly bearish,0.189,0.672,0.139,-0.296
+2015-11-30 14:01:00+00:00,"Deere Announces Factory Workforce Adjustments, 220 Employees On Indefinite Leave Starting Feb 2016",neutral,0.091,0.909,0.0,-0.0516
+2015-12-21 18:43:00+00:00,Merck CEO: Using Keytruda Could Extend Patient's Life By 13 Months On Average,mildly bullish,0.0,0.876,0.124,0.1779
+2016-01-06 12:53:00+00:00,Washington University Initiates Clinical Study of Verastem's VS-6063 in Combination with Merck's Pembrolizumab and Gemcitabine in Pancreatic Cancer,mildly bullish,0.206,0.794,0.0,-0.6597
+2016-01-06 17:51:00+00:00,Why This Codexis Analyst Is Confident Stock Is Worth $6,mildly bullish,0.0,0.611,0.389,0.6249
+2016-01-12 12:14:00+00:00,Fast Money Traders Share Their Biotech Picks,neutral,0.0,0.732,0.268,0.296
+2016-01-13 09:27:00+00:00,WHO to Announce End of Ebola Outbreak on Thursday -AFP,mildly bullish,0.0,1.0,0.0,0.0
+2016-01-14 21:19:00+00:00,Sierra Leone Health Ministry Investigating Suspected Death from Ebola -Reuters,mildly bearish,0.42,0.58,0.0,-0.7003
+2016-01-25 16:16:00+00:00,US Big Pharma: What To Watch For In Q4 Results,neutral,0.0,1.0,0.0,0.0
+2016-01-28 16:48:00+00:00,Adam Feurestein Reminds Twitter Followers 'Today Is Merck's HepC elbasvir/grazoprevir PDUFA',neutral,0.0,1.0,0.0,0.0
+2016-01-29 15:14:00+00:00,From Conf Call: Abbvie Says Merck's New Hep C Drug Will Crimp Viekira Pak Sales,mildly bearish,0.0,1.0,0.0,0.0
+2016-02-02 09:21:00+00:00,"Sanofi, Merck Considering Ending JV to Sell Vaccines in Europe -Bloomberg",neutral,0.0,1.0,0.0,0.0
+2016-02-02 15:18:00+00:00,"Merck, Sanofi Exploring Potential End To Joint Venture In Europe",neutral,0.0,1.0,0.0,0.0
+2016-02-03 13:42:00+00:00,Shares Of Merck Dip Lower Following Q4 Print,mildly bearish,0.212,0.577,0.212,0.0
+2016-02-24 15:05:00+00:00,AureoGen Announces Licensing Agreement with Merck,mildly bullish,0.0,0.61,0.39,0.4939
+2016-03-10 21:46:00+00:00,"The Stocks That Moved The S&P, Dow And Nasdaq Today",neutral,0.0,1.0,0.0,0.0
+2016-03-12 17:04:00+00:00,Agenus Shares Spike Higher Following Mid-Day Upgrade To Buy From Maxim,mildly bullish,0.0,0.82,0.18,0.296
+2016-04-12 13:25:00+00:00,"Notable Imbalances Before Tuesday's Open Led By Under Armour, Boeing, Caterpillar",neutral,0.0,1.0,0.0,0.0
+2016-04-13 08:20:00+00:00,Merck Announces License Application for Investigational House Dust Mite SLIT-tablet Accepted for Review by FDA,mildly bullish,0.0,0.87,0.13,0.2732
+2016-04-13 11:00:00+00:00,"FDA Accepts Supplemental Biologics License Application for Merck's KEYTRUDA in Recurrent or Metastatic Head and Neck Cancer, and Grants Priority Review",mildly bullish,0.165,0.677,0.158,-0.296
+2016-05-05 08:36:00+00:00,"Earnings Scheduled For May 5, 2016",neutral,0.0,1.0,0.0,0.0
+2016-05-27 11:48:00+00:00,Merck Receives Positive CHMP Opinion for ZEPATIER in the European Union,mildly bullish,0.0,0.735,0.265,0.5574
+2016-05-27 12:38:00+00:00,Merck Gets Favorable Opinion From CHMP For Its ZEPATIER,mildly bullish,0.0,0.721,0.279,0.4767
+2016-06-03 17:49:00+00:00,"Ouch! Jobs Report Miss Sends Rate Hike Odds Down, Raises Questions",mildly bearish,0.159,0.841,0.0,-0.2244
+2016-06-06 13:09:00+00:00,"Merck, Pfizer Offers Results from Pivotal Avelumab Study",mildly bullish,0.0,1.0,0.0,0.0
+2016-06-07 12:47:00+00:00,FDA Staff Has Said Overall Clinical Results from Merck's Bezlotoxumab Trial Could Negatively Impact Cure Rate of Initial Episode of Infection with C. Difficile,mildly bearish,0.0,1.0,0.0,0.0
+2016-06-09 13:52:00+00:00,"Hearing Merck May Be Interested In RLYP, Unconfirmed Takeover Chatter",mildly bullish,0.123,0.656,0.221,0.296
+2016-06-09 21:07:00+00:00,Merck To Acquire Afferent Pharmaceuticals,mildly bullish,0.0,1.0,0.0,0.0
+2016-06-16 17:10:00+00:00,Cramer Talks About Merck's 'Fabulous News' And Why The Market Can't Rally,mildly bullish,0.0,0.764,0.236,0.5267
+2016-06-27 12:41:00+00:00,Merck Gets CHMP Positive Opinion For KEYTRUDA For Advanced Non-Small Cell Lung Cancer Treatment,mildly bullish,0.21,0.524,0.267,0.0516
+2016-07-18 10:29:00+00:00,BMO Capital Downgrades Merck & Co to Market Perform,mildly bearish,0.0,1.0,0.0,0.0
+2016-07-21 21:00:00+00:00,"Merck Animal Health Receives FDA Approval of BRAVECTO For Cats And Dogs, Topical Treatment for Fleas and Ticks Effective for up to 12 Weeks",mildly bullish,0.0,0.78,0.22,0.7351
+2016-07-22 16:08:00+00:00,Merck Presents Data On Its Investigational Once-Daily Formulation Of ISENTRESS,mildly bullish,0.0,1.0,0.0,0.0
+2016-07-25 12:05:00+00:00,"NewLink Genetics Announces Merck Receives Breakthrough Therapy Designation from FDA, PRIME Status from EMA for Investigational Ebola Zaire Vaccine",mildly bullish,0.0,1.0,0.0,0.0
+2016-08-02 23:35:00+00:00,"Benzinga's M&A Chatter for Tuesday August 2, 2016",neutral,0.0,1.0,0.0,0.0
+2016-08-04 00:26:00+00:00,"Benzinga's M&A Chatter for Wednesday August 3, 2016",neutral,0.0,1.0,0.0,0.0
+2016-08-05 12:23:00+00:00,Merck Spike in Price Likely Attributed to Negative Results on Bristol-Myers' Opdivo,mildly bearish,0.252,0.748,0.0,-0.5719
+2016-08-05 13:03:00+00:00,Bristol's Opdivo Misses Endpoint In Late-Stage Trial; Merck Rallies Sharply Amid Keytruda Potential,mildly bullish,0.137,0.863,0.0,-0.2263
+2016-08-08 11:36:00+00:00,Citi Doesn't See Merck's Lung Cancer Success Lasting Long,mildly bearish,0.291,0.464,0.245,-0.1779
+2016-08-08 13:58:00+00:00,8 Biggest Price Target Changes For Monday,neutral,0.0,1.0,0.0,0.0
+2016-08-08 21:05:00+00:00,Results from Merck's Phase 3 Study Of Zepatier Hep C Treatment Published In Annals Of Internal Medicine,mildly bullish,0.0,1.0,0.0,0.0
+2016-08-17 16:55:00+00:00,"UPDATE: Reuters Says Merck, Sanofi, Pfizer, Gilead, Celgene Have Each Submitted Expressions of Interest for Medivation",mildly bullish,0.0,0.833,0.167,0.4588
+2016-08-31 14:16:00+00:00,"Shares Of Celgene Spiking Higher, Hearing Unconfirmed Rumors That Big Restructuring Under Way & Speculation Is That They Are Prepping Deal With Merck",mildly bullish,0.063,0.844,0.093,0.1779
+2016-10-09 12:19:00+00:00,Merck Presents Longer-Term Follow-Up of Overall Survival Data for KEYTRUDA in Patients with Advanced Melanoma from KEYNOTE-002 at ESMO 2016,mildly bullish,0.0,0.905,0.095,0.25
+2016-10-09 12:27:00+00:00,Merck Announces KEYTRUDA Showed Continued Overall Survival Benefit Compared to Chemotherapy with Longer Follow-Up in Patients with Previously Treated Metastatic NSCLC in Data to Be Presented at ESMO 2016,mildly bullish,0.0,0.903,0.097,0.4588
+2016-10-13 11:49:00+00:00,A Peek Into The Markets: U.S. Stock Futures Tumble Ahead Of Jobless Claims Report,mildly bearish,0.0,1.0,0.0,0.0
+2016-10-13 13:58:00+00:00,7 Biggest Price Target Changes For Thursday,neutral,0.0,1.0,0.0,0.0
+2016-10-19 16:38:00+00:00,"Fed Speakers And Beige Book, Bank Earnings, Rising Crude Take Center Stage",neutral,0.252,0.748,0.0,-0.5719
+2016-10-25 18:26:00+00:00,Technical Alert: Merck Higher After Q3 Report,mildly bullish,0.0,0.732,0.268,0.296
+2016-11-03 15:19:00+00:00,BZ NOTE Related to Traders Passing Around CNBC Story on New Cancer Drugs Possibly Damaging the Heart: NBC News via AP Published the Same Story ~7 p.m. EDT Wed. Evening,neutral,0.209,0.733,0.058,-0.7627
+2016-12-05 14:34:00+00:00,"Biothera, Merck Further Expand Research Collaboration to Include Phase 2 Clinical Trial in Head and Neck Cancer",mildly bullish,0.213,0.676,0.111,-0.4767
+2017-01-10 22:12:00+00:00,Bristol-Myers Shares Down 2.2% After Hours as Merck Shares Trade Up ~2.5% Following News KEYTRUDA Accepted for Supplemental BLA,mildly bullish,0.0,0.711,0.289,0.6705
+2017-01-12 15:11:00+00:00,Favorable News On Keytruda Drives Piper Jaffray's Upgrade Of Merck,mildly bullish,0.0,0.744,0.256,0.4767
+2017-01-20 11:52:00+00:00,Wall Street's M&A Chatter From January 19,neutral,0.0,1.0,0.0,0.0
+2017-01-20 21:02:00+00:00,"Merck Announces Setlement With Bristol-Myers Resolving KEYTRUDA Patent Litigation, Will Pay $625M And Provide Royalties On KEYTRUDA In Any Market In Which It's Approved",mildly bullish,0.112,0.699,0.189,0.4939
+2017-01-27 19:29:00+00:00,"Andrew Left Furthers Comments Following ESRX Release Today, Points To Comment Made By Merck President Of U.S. Commercial To Highlight Thesis That Drug Co.'s Offer Incentives To PBM's To Stay On Preferred Drug Lists",mildly bearish,0.0,0.872,0.128,0.5719
+2017-02-02 11:46:00+00:00,"Merck Sees FY17 Adj. EPS $3.72-$3.87 vs $3.85 Est., Sales $38.6B-$40.1B vs $40B Est.",mildly bearish,0.0,1.0,0.0,0.0
+2017-02-23 19:06:00+00:00,Breaking Down The Multiple Sclerosis 2017 Formularies: 'Stability Fares Well For The Market',mildly bullish,0.0,0.851,0.149,0.2732
+2017-03-06 13:02:00+00:00,"Merck, Pfizer Report U.S. FDA and EMA Filing Acceptances of 3 Marketing Applications for Ertugliflozin-Containing Medicines For Adult Type 2 Diabetes Patients",mildly bullish,0.0,0.876,0.124,0.4019
+2017-03-08 19:22:00+00:00,Everything We Know About Merck's Keytruda,neutral,0.0,1.0,0.0,0.0
+2017-03-14 19:24:00+00:00,FDA Has Approved Merck's Keytruda For Intravenous Use In Hodgkin Lymphoma,mildly bullish,0.0,0.781,0.219,0.4215
+2017-04-07 11:30:00+00:00,Merck Reports Received CRL from FDA Related to TECOS Study with Sitagliptin,neutral,0.0,1.0,0.0,0.0
+2017-04-21 12:03:00+00:00,Atara Bio Partners With Merck To Evaluate KEYTRUDA In Combination With ATA129 In NPC,mildly bullish,0.0,1.0,0.0,0.0
+2017-05-02 10:48:00+00:00,"Merck Q1 EPS $0.88 vs $0.83 Est, Sales $9.43B vs $9.25B Est",mildly bullish,0.0,1.0,0.0,0.0
+2017-05-19 12:00:00+00:00,Merck Reports Received CHMP Opinion Recommending Approval of ISENTRESS 600 mg in EU,mildly bullish,0.0,0.795,0.205,0.4767
+2017-05-29 18:54:00+00:00,Congo Approves Use of Merck Ebola Vaccine -DJ,mildly bullish,0.0,0.722,0.278,0.4019
+2017-06-04 21:41:00+00:00,Merck Announces Presentation of New Monotherapy Data for KEYTRUDA in Heavily Pre-Treated Patients with Advanced Gastric Cancer#ASCO17,mildly bullish,0.0,0.889,0.111,0.25
+2017-06-29 20:13:00+00:00,Aduro Biotech Initiates Phase 2 Clinical Trial Of CRS-207 In Combination With KEYTRUDA,mildly bullish,0.0,1.0,0.0,0.0
+2017-06-30 20:10:00+00:00,Benzinga's Option Alert Recap From June 30,neutral,0.0,0.732,0.268,0.296
+2017-07-13 18:43:00+00:00,"Shares of Eli Lilly, AstraZeneca, Merck, Gilead, Abbvie, Other Large Cap Biotech Spiking Higher",mildly bullish,0.0,0.855,0.145,0.296
+2017-07-24 11:10:00+00:00,"Merck Gives Results from ONCEMRK, A Study of ISENTRESS HD",neutral,0.0,1.0,0.0,0.0
+2017-07-27 07:41:00+00:00,"AstraZeneca, Merck Announce Strategic Oncology Collaboration; Merck to pay AstraZeneca up to $8.5B in Total Consideration",mildly bullish,0.085,0.915,0.0,-0.1027
+2017-07-28 08:17:00+00:00,"Earnings Scheduled For July 28, 2017",neutral,0.0,1.0,0.0,0.0
+2017-07-28 08:35:00+00:00,"10 Stocks To Watch For July 28, 2017",neutral,0.0,1.0,0.0,0.0
+2017-07-28 10:46:00+00:00,UPDATE: Merck Raises FY17 Adj. EPS Outlook From $3.72-$3.87 To $3.76-$3.88 vs $3.85 Est.,mildly bullish,0.0,1.0,0.0,0.0
+2017-08-07 11:11:00+00:00,"Merck Animal Health to Acquire Austrian Manufacturing Facility, Terms Not Disclosed",neutral,0.0,1.0,0.0,0.0
+2017-08-14 12:51:00+00:00,CNBC Now Tweets: JUST IN: Merck CEO resigns from Trump's manufacturing council amid fallout from the President's comments.,neutral,0.119,0.881,0.0,-0.3182
+2017-08-14 15:31:00+00:00,Doug Kass Tweets: I am buying $MRK just on principle.  @maddow @MSNBC @carlquintanilla @jimcramer @tomkeene @andrewrsorkin @BeckyQuick,mildly bullish,0.0,1.0,0.0,0.0
+2017-08-15 12:34:00+00:00,The Market In 5 Minutes,neutral,0.0,1.0,0.0,0.0
+2017-08-24 17:46:00+00:00,"Playing The US Pharma Space: Buy Portola, Hold Corvus, Sell Teva",mildly bullish,0.0,0.847,0.153,0.2023
+2017-08-31 14:52:00+00:00,"Merck Shares Move To Session Lows, Up 0.4% For Session, As Traders Circulating FDA.gov Alert 'FDA Alerts Healthcare Professionals and Oncology Clinical Investigators about Two Clinical Trials on Hold Evaluating KEYTRUDA® in Patients w/ MM'",mildly bearish,0.047,0.838,0.115,0.3818
+2017-09-07 11:19:00+00:00,"Wall Street's M&A Chatter From September 6: Cabelas, Merck-Rigontec, Altice-Charter, Amazon-Kohl's",neutral,0.0,1.0,0.0,0.0
+2017-09-08 12:02:00+00:00,Merck Reports Updated Data For KEYTRUDA In Patients With Advanced Gastric Cancer Across Treatment Settings,mildly bullish,0.227,0.67,0.103,-0.5267
+2017-09-09 14:41:00+00:00,"Incyte, Merck Announce Positive Progression-Free Survival Data from ECHO-202 Trial of Epacadostat in Combination with KEYTRUDA in Patients with Advanced Melanoma at ESMO 2017",mildly bullish,0.0,0.797,0.203,0.6808
+2017-09-11 13:15:00+00:00,"Morgan Stanley Healthcare Conference Begins Today, Presenters Include: Veeva Systems, Quorum Health, Neurocrine Biosciences, Vertex Pharma, Merck, Ocular Therapeutix, Biogen, Gilead, and Bristol-Myers",neutral,0.0,1.0,0.0,0.0
+2017-10-13 13:58:00+00:00,Bank Of America Sees NewLink Genetics As 'Undervalued',mildly bullish,0.0,1.0,0.0,0.0
+2017-10-20 15:35:00+00:00,"Fierce Pharma Reports Merck Lays Off 1,800 U.S. Sales Reps To Overhaul Primary Care Marketing",mildly bearish,0.0,0.814,0.186,0.4939
+2017-10-24 16:35:00+00:00,Healthcare ETFs Set To Soar As Q3 Earnings Unfold,mildly bullish,0.0,1.0,0.0,0.0
+2017-10-27 08:36:00+00:00,"12 Stocks To Watch For October 27, 2017",neutral,0.0,1.0,0.0,0.0
+2017-10-30 10:40:00+00:00,Morgan Stanley Downgrades Merck & Co to Equal-Weight,mildly bearish,0.0,1.0,0.0,0.0
+2017-10-30 13:22:00+00:00,"Benzinga's Top Upgrades, Downgrades For October 30, 2017",neutral,0.0,0.795,0.205,0.2023
+2017-10-30 16:30:00+00:00,35 Stocks Moving In Monday's Mid-Day Session,neutral,0.0,1.0,0.0,0.0
+2017-10-31 08:54:00+00:00,40 Biggest Movers From Yesterday,neutral,0.0,1.0,0.0,0.0
+2017-11-06 17:19:00+00:00,"Pharma Stock Roundup: Pfizer, Teva, Novartis, And More",neutral,0.0,1.0,0.0,0.0
+2017-11-24 15:00:00+00:00,5 Biggest Price Target Changes For Friday,neutral,0.0,1.0,0.0,0.0
+2017-11-28 19:33:00+00:00,Merck Reports $10B Buyback Plan,mildly bullish,0.0,1.0,0.0,0.0
+2018-01-08 11:32:00+00:00,Merck Announces FDA Accepts NDA For Doravirine,mildly bullish,0.0,0.723,0.277,0.3182
+2018-01-19 11:30:00+00:00,Merck Reports LYNPARZA For Treatment Of Advanced Ovarian Cancer Received Approval In Japan,mildly bullish,0.226,0.513,0.262,-0.0772
+2018-01-19 11:45:00+00:00,"Merck Reports First-Time Data For KEYTRUDA In Patients With Previously-Treated Advanced HCC: 'showed an overall response rate (ORR) of 16.3 percent (95% CI, 9.8-24.9) (n=17/104) with KEYTRUDA as monotherapy'",mildly bullish,0.0,0.933,0.067,0.25
+2018-01-23 15:58:00+00:00,Biotech M&A Off To A Strong Start In 2018: More Deals To Follow?,mildly bullish,0.0,0.769,0.231,0.5106
+2018-02-15 11:38:00+00:00,"Merck Reports Co., AstraZeneca Won Orphan Drug Designation By FDA For Selumetinib For Treatment Of NF1",mildly bullish,0.0,0.802,0.198,0.5719
+2018-02-23 12:30:00+00:00,"Merck, AstraZeneca Reports LYNPARZA Received Positive EU CHMP Opinion In Platinum-Sensitive Relapsed Ovarian Cancer",mildly bullish,0.22,0.6,0.18,-0.2023
+2018-03-20 15:29:00+00:00,Checking In On The Healthcare Sector Ahead Of Q1 Earnings Season,neutral,0.0,1.0,0.0,0.0
+2018-03-26 16:01:00+00:00,"Stocks That Made New 52-Wk Lows Today Include: Charter Comms., Vornado Realty, Colgate-Palmolive, Merck, Hasbro, Ventas, Dentsply Sirona, Johnson Controls, Goodyear Tire, Clorox, GE, Kinder Morgan, Comcast, DISH Network, Stericycle and Patterson Cos.",mildly bearish,0.05,0.861,0.089,0.34
+2018-04-03 16:15:00+00:00,"Stocks That Made New 52-Wk Lows Today Include: Incyte, Merck, Mallinckrodt, Celgene, Cerner, Willams Cos., AMD, Albemarle, Kinder Morgan, Western Union, Walgreens, Kraft Heinz, Nielsen, and Alliance Data Systems",mildly bearish,0.056,0.844,0.1,0.34
+2018-04-09 10:46:00+00:00,Merck Reports its KEYTRUDA Monotherapey Met its Primary Endpoint in the Phase 3 KEYNOTE-042 Study,mildly bullish,0.0,1.0,0.0,0.0
+2018-04-10 08:21:00+00:00,40 Biggest Movers From Yesterday,neutral,0.0,1.0,0.0,0.0
+2018-04-15 17:53:00+00:00,"Merck Announces KEYTRUDA Reduced Risk of Disease Recurrence or Death by More than 40% vs Placebo as Adjuvant Therapy in Resected, High-Risk Stage III Melanoma",mildly bullish,0.207,0.793,0.0,-0.7184
+2018-05-01 10:47:00+00:00,"Merck Reports Q1 Adj. EPS $1.05 Beats $1.00 Est., Sales $10.04B Misses $10.10B Est.",mildly bullish,0.128,0.872,0.0,-0.2263
+2018-05-01 12:24:00+00:00,Benzinga Pro's 5 Stocks To Watch Today,neutral,0.0,1.0,0.0,0.0
+2018-05-03 10:58:00+00:00,Merck Says Phase 3 KEYNOTE-407 Met A Pre-Specified Secondary Endpoint Related To Overall Response Rate In A Cohort Of Participants At An Interim Analysis,mildly bullish,0.0,1.0,0.0,0.0
+2018-05-14 10:59:00+00:00,"WHO Says 39 Cases Of Ebola Reported In Congo Outbreak So Far, Including 19 Deaths",neutral,0.0,1.0,0.0,0.0
+2018-05-17 11:28:00+00:00,WHO Says Will Convene Emergency Meeting On Fri. To Determine If Ebola Outbreak In Congo Is A Public Emergency Of Int'l. Concern,neutral,0.215,0.785,0.0,-0.6369
+2018-05-25 13:19:00+00:00,"Benzinga's Daily Biotech Pulse: Biomarin Gets FDA Nod, Amarin Settles with Teva, Merck's Cancer Drug Review Extended",neutral,0.216,0.784,0.0,-0.6597
+2018-06-03 11:47:00+00:00,Merck Announces KEYTRUDA Monotherapy Significantly Improved Overall Survival in KEYNOTE-042 Study as First-Line Treatment for Locally Advanced or Metastatic NSCLC Patients Whose Tumors Expressed PD-L1 (TPS ≥1%),mildly bullish,0.0,0.831,0.169,0.6249
+2018-06-03 11:48:00+00:00,Merck Announces KEYTRUDA Plus Chemotherapy Significantly Improved Overall Survival in First-Line Treatment of Metastatic Squamous NSCLC in Phase 3 KEYNOTE-407 Study,mildly bullish,0.0,0.86,0.14,0.4767
+2018-06-04 21:01:00+00:00,Merck and Astrazeneca Pres Relase Announces LYNPARZA In Combo With Abiraterone Delayed Metastatic Prostate Cancer Disease Progression,mildly bullish,0.296,0.704,0.0,-0.743
+2018-06-15 16:23:00+00:00,30 Stocks Moving In Friday's Mid-Day Session,neutral,0.0,1.0,0.0,0.0
+2018-06-27 08:01:00+00:00,"AstraZeneca, Merck Announce LYNPARZA S Met Primary Endpoint of Progression-Free Survival in Women with BRCA-Mutated Advanced Ovarian Cancer and Showed a Safety Profile Consistent with Previous Trials",mildly bullish,0.141,0.705,0.154,-0.1531
+2018-06-27 21:01:00+00:00,Merck Reports Study Results From Heat-Stable Formulation Of Carbetocin For Prevention Of Excessive Bleeding After Childbirth: Showed Clinical Non-Inferiority To Oxycontin For Primary Outcome Of Greater Than Equal To 500 ml Of Blood Loss,mildly bullish,0.062,0.87,0.068,0.0516
+2018-07-02 10:46:00+00:00,Merck's Supplemental Biologics License for KEYTRUDA in Combination with Chemotherapy is Granted Priority Review by the FDA,mildly bullish,0.0,0.889,0.111,0.25
+2018-07-11 10:56:00+00:00,FDA Grants Merck Priority Review To Co.'s  Supplemental Biologics License Application For Its KEYTRUDA Hepatocellular Carcinoma Therapy,mildly bullish,0.0,0.894,0.106,0.2263
+2018-07-19 18:48:00+00:00,"UPDATE: Merck, Responding To Responsibility On Drug Pricing, Says 'We are also lowering our price on ZEPATIER by 60 percent and several other medicines by 10 percent to reduce out-of-pocket costs for patients across the country'",mildly bullish,0.054,0.946,0.0,-0.25
+2018-07-23 18:42:00+00:00,Morgan Stanley: Newly Public Neon Therapeutics Has Outperformance Potential,mildly bullish,0.0,1.0,0.0,0.0
+2018-07-25 12:41:00+00:00,"Benzinga's Daily Biotech Pulse: Merck's Keytruda Found Effective, Nabriva To Acquire Zavante, FDA Denies Agile",mildly bullish,0.148,0.688,0.164,0.0772
+2018-07-27 08:56:00+00:00,"12 Stocks To Watch For July 27, 2018",neutral,0.0,1.0,0.0,0.0
+2018-07-27 11:31:00+00:00,Endo Int'l. Reports Par Pharma Has Begun Shipping Authorized Generic Version Of Merck's INVANZ,neutral,0.0,1.0,0.0,0.0
+2018-08-07 15:27:00+00:00,"Stocks Which Set New 52-Week High Yesterday, August 6th",neutral,0.0,1.0,0.0,0.0
+2018-08-09 08:02:00+00:00,Perrigo Announces Rx-To-OTC Switch Licensing For Nasonex,neutral,0.0,1.0,0.0,0.0
+2018-08-17 12:01:00+00:00,Eisai And Merck Announce FDA Approval Of LENVIMA,mildly bullish,0.0,0.693,0.307,0.4767
+2018-08-22 13:06:00+00:00,"Stocks Which Set New 52-Week High Yesterday, August 21st",neutral,0.0,1.0,0.0,0.0
+2018-08-30 12:02:00+00:00,"The Daily Biotech Pulse: Verastem Gets New CFO, Mesoblast Earnings, Vertex's Precision Medicine Collaboration",neutral,0.0,1.0,0.0,0.0
+2018-09-05 11:56:00+00:00,"Ebola-Related Stocks Unaffected Amid Earlier Report Officials In Congo Announced The First Ebola Case In A Major Eastern City, Butembo",neutral,0.0,1.0,0.0,0.0
+2018-09-10 10:45:00+00:00,European Commission Approves Merck's KEYTRUDA in Combination with Pemetrexed and Platinum Chemotherapy for the First-Line Treatment of Patients with Metastatic Nonsquamous NSCLC,mildly bullish,0.0,0.886,0.114,0.4019
+2018-09-10 11:02:00+00:00,A Peek Into The Markets: US Stock Futures Signal Higher Start On Wall Street,mildly bullish,0.0,1.0,0.0,0.0
+2018-10-11 13:57:00+00:00,"Credit Suisse Maintains Outperform on Merck & Co, Raises Price Target to $81",mildly bullish,0.0,0.809,0.191,0.3818
+2018-10-12 12:26:00+00:00,"Barclays Maintains Overweight on Merck & Co, Raises Price Target to $78",mildly bullish,0.2,0.8,0.0,-0.3612
+2018-10-20 20:54:00+00:00,ImmunoGen Presents Encouraging Initial Data from FORWARD II Expansion Cohort Assessing Mirvetuximab Soravtansine in Combination with KEYTRUDA at ESMO 2018,mildly bullish,0.0,0.848,0.152,0.5267
+2018-10-20 20:57:00+00:00,Merck Announces KEYTRUDA Showed a Complete Response Rate of Nearly 40% in Patients with High-Risk Non-Muscle Invasive Bladder Cancer Unresponsive to Standard of Care at ESMO 2018,mildly bullish,0.139,0.759,0.101,-0.296
+2018-10-21 19:40:00+00:00,"AstraZeneca, Merck Announce Solo-1 Phase III Trial Demonstrates Lynparza Maintenance Therapy Cut the Risk of Disease Progression or Death by 70% in Patients with Newly-Diagnosed, Advanced BRCA-Mutated Ovarian Cancer at ESMO",mildly bullish,0.309,0.642,0.049,-0.8885
+2018-10-25 10:46:00+00:00,"Merck & Co Q3 EPS $1.19 Beats $1.14 Estimate, Sales $10.794B Miss $10.88B Estimate",mildly bearish,0.118,0.882,0.0,-0.1531
+2018-10-27 14:23:00+00:00,"The Week Ahead In Biotech: Conferences, PDUFA Dates, Clinical Trial Results, Earnings And IPOs",neutral,0.0,1.0,0.0,0.0
+2018-10-30 12:00:00+00:00,"The Daily Biotech Pulse: Pfizer And Allergan Earnings, CFO Departures At Acadia And Assertio",neutral,0.0,1.0,0.0,0.0
+2018-11-08 15:52:00+00:00,"Stocks Which Set New 52-Week High Yesterday, Wed., Nov. 7, 2018",neutral,0.0,1.0,0.0,0.0
+2018-11-15 14:02:00+00:00,"NewLink Genetics Announces Merck Has Begun Rolling Submission Of Licensure Application For Ebola vaccine V920 To U.S. FDA; In 2014, Co. Entered Ito License Agreement With Merck To Develop, Manufacture And Commercialize Ebola Vaccine",mildly bullish,0.0,0.912,0.088,0.4939
+2018-11-28 21:30:00+00:00,Merck Receives European Commission Approval For DELSTRIGO As Part OF An HIV-1 Treatment Regimen,mildly bullish,0.0,0.807,0.193,0.4767
+2018-12-04 12:59:00+00:00,"The Daily Biotech Pulse: ASH Presentations Take The Spotlight, Eiger Gets A New CFO",neutral,0.0,1.0,0.0,0.0
+2018-12-04 14:20:00+00:00,"Stocks Which Set New 52-Week High Yesterday, Mon., Dec. 3, 2018",neutral,0.0,1.0,0.0,0.0
+2018-12-04 15:24:00+00:00,"Ahead Of Mid-Week Pause, Investors Fret Over Trade Pact Details",neutral,0.0,1.0,0.0,0.0
+2018-12-11 13:22:00+00:00,"The Daily Biotech Pulse: Management Change At Merck, Jazz Buyback, Arrowhead Earnings",neutral,0.0,1.0,0.0,0.0
+2018-12-12 15:31:00+00:00,Merck and Instituto Butantan Announce Collaboration Agreement To Develop Dengue Infections Vaccine; Instituto Butantan To Receive $26M Upfront And Is Eligible For Up To $75M In Milestones,mildly bullish,0.0,0.89,0.11,0.4939
+2018-12-17 11:33:00+00:00,Merck's KEYTRUDA as Adjuvant Therapy for Adults with Resected Stage III Melanoma Approved by the European Commission,mildly bullish,0.0,0.851,0.149,0.4215
+2018-12-19 21:14:00+00:00,FDA Approves Merck's KEYTRUDA For Treatment Of Recurrent Locally Advanced Or Metastatic Merkel Cell Carcinoma,mildly bullish,0.0,0.734,0.266,0.5719
+2019-01-14 22:02:00+00:00,"Merck Reports KEYTRUDA Reduced Risk Of Death By 31% Vs Chemotherapy In Previously-Treated Patients With Advanced Esophageal, Esophagogastric Junction Carcinoma Whose Tumors Expressed PD-L1",mildly bullish,0.207,0.724,0.069,-0.6124
+2019-02-01 09:46:00+00:00,"12 Stocks To Watch For February 1, 2019",neutral,0.0,1.0,0.0,0.0
+2019-02-01 14:10:00+00:00,"The Daily Biotech Pulse: Merck Earnings, Positive Relaunch Of  Titan's Opioid Disorder Treatment Implant",mildly bullish,0.148,0.656,0.197,0.2263
+2019-02-05 11:49:00+00:00,FDA Accepts For Review New Drug Application For Merck's Investigational Combination Of Imipenem/Cilastatin And Relebactam; Acceps Supplemental NDA For ZERBAXA,mildly bullish,0.0,0.892,0.108,0.3182
+2019-02-05 13:39:00+00:00,Codexis shares are trading higher after the company reported a multi-year agreement with Merck to perform technology upgrades.,mildly bullish,0.0,0.735,0.265,0.6597
+2019-02-21 13:09:00+00:00,31 Stocks Moving In Thursday's Pre-Market Session,neutral,0.0,1.0,0.0,0.0
+2019-02-22 10:02:00+00:00,65 Biggest Movers From Yesterday,neutral,0.0,1.0,0.0,0.0
+2019-02-25 13:56:00+00:00,"Pharma M&A Wave: Spark Therapeutics, Clementia Pharma Among The Rare Disease Biotechs Acquired",mildly bullish,0.0,0.863,0.137,0.2263
+2019-02-26 09:01:00+00:00,"AstraZeneca, Merck Announce Phase III POLO Trial Met its Primary Endpoint of Progression-free Survival",mildly bullish,0.0,1.0,0.0,0.0
+2019-03-22 12:16:00+00:00,"The Daily Biotech Pulse: Immutep Gets US Patent, Conatus NASH Disappointment, Eisai Moves On After Aducanumab Setback",neutral,0.171,0.829,0.0,-0.5106
+2019-03-23 16:20:00+00:00,"The Week Ahead In Biotech: Conferences, PDUFA Dates, Clinical Trials, Earnings And IPOs",neutral,0.0,1.0,0.0,0.0
+2019-03-29 17:55:00+00:00,Congo Health Ministry Says Has Recorded 15 New Confirmed Cases Of Ebola,neutral,0.0,1.0,0.0,0.0
+2019-04-11 16:33:00+00:00,NYC Mandates Measles Vaccinations; Merck Is The Exclusive Manufacturer,mildly bullish,0.0,0.842,0.158,0.128
+2019-04-18 14:51:00+00:00,Shares of several drug companies are trading lower amid continued efforts from Washington to curb prescription drug prices. The overall healthcare sector has seen weakness recently due to uncertainty over the future of healthcare policy.,mildly bearish,0.182,0.764,0.054,-0.6369
+2019-04-22 10:47:00+00:00,Merck's KEYTRUDA in Combination with Inlyta Approved by the FDA as First-Line Treatment for Patients With Advanced Renal Cell Carcinoma,mildly bullish,0.0,0.789,0.211,0.5859
+2019-05-02 12:06:00+00:00,"UBS Maintains Buy on Merck & Company, Inc. Common Stock (new), Raises Price Target to $88",mildly bullish,0.0,1.0,0.0,0.0
+2019-05-16 18:50:00+00:00,5 ASCO Abstracts That Moved Stocks,neutral,0.0,1.0,0.0,0.0
+2019-05-20 18:28:00+00:00,"Argus Questions Logic Behind Bristol-Myers' Proposed Celgene Buy, Steps To Sidelines",mildly bearish,0.0,1.0,0.0,0.0
+2019-05-22 16:38:00+00:00,Merck's Keytruda Vs. Bristol-Myers Squibb's Opdivo In Q1 And Beyond,neutral,0.0,1.0,0.0,0.0
+2019-05-31 10:46:00+00:00,Merck Reports KEYTRUDA Showed Improved Overall Survival as First-Line Treatment of Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma at Final Analysis of Pivotal Phase 3 KEYNOTE-048 Trial,mildly bullish,0.0,0.897,0.103,0.4767
+2019-06-01 11:36:00+00:00,Merck Announces Five-Year Survival Data for KEYTRUDA in Advanced Non-Small Cell Lung Cancer from First KEYNOTE Trial at #ASCO19,mildly bullish,0.188,0.726,0.085,-0.5267
+2019-06-03 20:15:00+00:00,Merck Reports LYNPARZA Phase 3 SOLO3 Trial Showed 72% Objective Response Rate in Patients with Platinum-Sensitive Relapsed Germline BRCA-mutated Advanced Ovarian Cancer Compared to 51% of Patients Receiving Chemotherapy,mildly bullish,0.136,0.802,0.062,-0.5267
+2019-06-04 11:45:00+00:00,"The Daily Biotech Pulse: ASCO Presentations From Roche, Celgene & More, Edwards Recommends Rejection Of Mini-Tender Offer",neutral,0.189,0.702,0.109,-0.3788
+2019-06-04 17:07:00+00:00,Shares of several healthcare companies are trading higher with the overall US market. Recent comments out of China and Mexico has renewed trade optimism and lifted economic outlook.,mildly bullish,0.0,0.82,0.18,0.6908
+2019-06-11 13:14:00+00:00,"FDA Greenlights Merck's Blockbuster Drug Keytruda For First-Line Treatment Of Head, Neck Cancer",mildly bullish,0.228,0.57,0.202,-0.128
+2019-06-18 08:27:00+00:00,"AstraZeneca, Merck Announce Lynparza Approved in the EU for 1st-line Maintenance Treatment Of BRCA-mutated Advanced Ovarian Cancer",mildly bullish,0.19,0.603,0.207,-0.1531
+2019-06-19 08:58:00+00:00,"AstraZeneca,Merck Announce Lynparza Approved in Japan for 1st-line Maintenance Therapy in BRCA-mutated Advanced Ovarian Cancer",mildly bullish,0.208,0.566,0.226,-0.1531
+2019-06-19 19:43:00+00:00,Report: Merck Searching Internally For Next CEO,neutral,0.0,1.0,0.0,0.0
+2019-06-22 19:07:00+00:00,"The Week Ahead In Biotech: Conferences, PDUFA Dates, Clinical Trial Readouts And IPOs",neutral,0.0,1.0,0.0,0.0
+2019-07-27 18:32:00+00:00,"The Week Ahead In Biotech: Pending Clinical Readouts, Earnings Dominate",neutral,0.143,0.857,0.0,-0.128
+2019-07-29 11:02:00+00:00,Merck's KEYTRUDA in Combination with Chemotherapy Met One of the Dual Primary Endpoints in Pivotal Phase 3 KEYNOTE-522,mildly bullish,0.0,1.0,0.0,0.0
+2019-07-31 12:18:00+00:00,SELLAS Advances Galinpepimut-S (GPS) In Combination With KEYTRUDA Program With Dosing Of First Patient In Phase 1/2 Basket Study,mildly bullish,0.0,1.0,0.0,0.0
+2019-08-14 08:40:00+00:00,Lynparza Phase Iii Paola-1 Trial Met Primary Endpoint as 1st-line Maintenance Treatment With Bevacizumab for Advanced Ovarian Cancer,mildly bullish,0.196,0.714,0.089,-0.5267
+2019-08-29 18:57:00+00:00,Uganda Confirms Another Case Of Ebola - A 9-Year Old Girl Who Traveled Democratic Republic Of Congo,neutral,0.0,1.0,0.0,0.0
+2019-08-30 08:04:00+00:00,"Deaths from E. Congo Ebola Outbreak Top 2,000; Cases Top 3,000",mildly bearish,0.0,0.714,0.286,0.3818
+2019-09-10 14:30:00+00:00,Shares of several drugmakers are trading lower on news of a drug pricing bill being developed by House Democrats. The proposed bill would set US drug prices based on prices in other wealthy countries.,mildly bearish,0.06,0.813,0.127,0.3612
+2019-09-17 10:45:00+00:00,"Merck Reports FDA Accepted Biologics License Application, Granted Priority Review For V920 For Ebola Zaire Virus",mildly bullish,0.0,0.773,0.227,0.4767
+2019-09-17 15:56:00+00:00,FDA Says Granted Accelerated Approval To Lenvima In Combo With Keytruda For Treatment Of Patients With Advanced Endometrial Carcinoma,mildly bullish,0.0,0.693,0.307,0.7269
+2019-09-20 11:46:00+00:00,"The Daily Biotech Pulse: FDA Approves Merck HIV Drugs, Five Prime CEO Quits, HTG Molecular Announces Secondary Offering",mildly bullish,0.0,0.863,0.137,0.4019
+2019-09-30 10:47:00+00:00,Merck's Pivotal RESTORE-IMI 2 Phase 3 Study of RECARBRIO Met its Primary Endpoint,mildly bullish,0.0,1.0,0.0,0.0
+2019-10-03 15:45:00+00:00,What's Behind PDS Biotech's Rally?,neutral,0.0,1.0,0.0,0.0
+2019-10-03 19:49:00+00:00,Biotech Stock On The Radar: FDA Verdict Ahead For Pfenex's Osteoporosis Biosimilar,mildly bullish,0.0,0.873,0.127,0.1531
+2019-10-08 15:08:00+00:00,"Goldman Recommends Selling Puma Biotech, Clovis Oncology; Cites Company-Specific, Competitive Risks",mildly bearish,0.153,0.584,0.263,0.128
+2019-10-11 15:19:00+00:00,Shares of several healthcare companies are trading higher after President Trump made positive remarks on the U.S.-China trade talks as traders grew more optimistic over the possibility of a limited trade deal. Trump is scheduled to meet with Chinese Vice Premier Liu He at the White House today.,mildly bullish,0.036,0.807,0.157,0.7574
+2019-10-17 11:21:00+00:00,"Bank of America Reinstates Neutral on Merck & Co, Announces $90 Price Target",neutral,0.0,1.0,0.0,0.0
+2019-10-18 11:00:00+00:00,"Merck Reports Positive EU CHMP Opinion For 2 New Regimens Of KEYTRUDA As First-Line Treatment For Metastatic Or Unresectable Recurrent Head, Neck Squamous Cell Carcinoma",mildly bullish,0.0,0.865,0.135,0.5574
+2019-10-18 18:48:00+00:00,"WHO Says Ebola Concentrated In Congo Mining Area, Still An Emergency",mildly bearish,0.206,0.794,0.0,-0.3818
+2019-10-28 15:56:00+00:00,More Earnings And A Fed Decision In Week Four Of The WeTrader Competition,neutral,0.0,1.0,0.0,0.0
+2019-10-29 08:57:00+00:00,"Earnings Scheduled For October 29, 2019",neutral,0.0,1.0,0.0,0.0
+2019-10-29 11:25:00+00:00,Merck & Co shares are trading higher after the company reported better-than-expected Q3 EPS and sales results. The company also issued FY19 EPS and sales guidance above analyst estimates.,mildly bullish,0.0,0.925,0.075,0.296
+2019-10-29 12:33:00+00:00,28 Healthcare Stocks Moving In Tuesday's Pre-Market Session,neutral,0.0,1.0,0.0,0.0
+2019-11-01 21:15:00+00:00,WeTrader Competition: Round Four Wrap-up,neutral,0.0,1.0,0.0,0.0
+2019-11-06 16:20:00+00:00,AstraZeneca Named The Most Innovative Global Pharma Company,neutral,0.0,0.687,0.313,0.4927
+2019-11-13 13:12:00+00:00,"Morgan Stanley Maintains Overweight on Merck & Co, Raises Price Target to $95",mildly bullish,0.185,0.815,0.0,-0.3612
+2019-11-15 11:45:00+00:00,Merck Reports Its Animal Health Unit Announced US Approval Of BRAVECTO PLUS,mildly bullish,0.0,0.78,0.22,0.4767
+2019-11-20 11:46:00+00:00,European Commission Approves Two New Regimens Of Merck's KEYTRUDA As First-Line Treatment For Metastatic Or Unresectable Recurrent Head And Neck Squamous Cell Carcinoma,mildly bullish,0.0,0.891,0.109,0.4019
+2019-11-27 12:26:00+00:00,"The Daily Biotech Pulse: Tonix Says No Surprises In FDA Meeting Minutes, Aravive Offering, FDA Nod For Qiagen",neutral,0.109,0.796,0.095,-0.0772
+2019-11-27 15:14:00+00:00,Stocks That Hit 52-Week Highs On Wednesday,neutral,0.0,1.0,0.0,0.0
+2019-11-27 15:14:00+00:00,Stocks That Hit 52-Week Highs On Wednesday,neutral,0.0,1.0,0.0,0.0
+2019-12-03 12:59:00+00:00,"The Daily Biotech Pulse: Astellas To Buy Audentes For $3B, Applied Genetics Chief Medical Officer Quits, Axsome Aces Midstage Trial",neutral,0.0,1.0,0.0,0.0
+2019-12-04 15:30:00+00:00,Stocks That Hit 52-Week Highs On Wednesday,neutral,0.0,1.0,0.0,0.0
+2019-12-05 10:24:00+00:00,"AstraZeneca, Merck Announce Lynparza Approved in China as a 1st-line Maintenance Therapy in BRCA-mutated Advanced Ovarian Cancer",mildly bullish,0.198,0.586,0.216,-0.1531
+2019-12-09 12:49:00+00:00,20 Stocks Moving In Monday's Pre-Market Session,neutral,0.0,1.0,0.0,0.0
+2019-12-11 12:21:00+00:00,"The Daily Biotech Pulse: Correvio Faces FDA Panel Rejection, Iterum's Antibiotic Trial Narrowly Misses Primary Endpoint",mildly bearish,0.278,0.722,0.0,-0.6597
+2019-12-12 17:03:00+00:00,Traders Circulating Materials From Merck's Keytruda Presentation At ESMO,neutral,0.0,1.0,0.0,0.0
+2019-12-20 11:46:00+00:00,"Merck Reports KEYTRUDA Approved In Japan For 3 New First-Line Indications Across Advanced Renal Cell Carcinoma, Recurrent or Distant Metastatic Head and Neck Cancer",mildly bullish,0.151,0.685,0.164,-0.1531
+2019-12-27 17:23:00+00:00,Merck & Co Option Alert: Jun 19 $92.5 Calls Sweep (49) above Ask!: 4764 @ $4.107 vs 5293 OI; Earnings 1/31 Before Open [est] Ref=$91.46,mildly bullish,0.0,0.898,0.102,0.3595
+2019-12-29 23:38:00+00:00,"Week Ahead In Biotech: PDUFA Date Ahead For Astra Zeneca, Merck's Lynparza, Pending Clinical Readouts In Focus",neutral,0.0,1.0,0.0,0.0
+2019-12-30 10:27:00+00:00,AstraZeneca Says FDA Approved Lynparza for Pancreatic Cancer,mildly bullish,0.333,0.455,0.212,-0.3818
+2019-12-30 16:41:00+00:00,Merck-AstraZeneca's Lynparza Snags FDA Nod For Pancreatic Cancer,mildly bullish,0.386,0.614,0.0,-0.6597
+2020-01-09 13:39:00+00:00,"The Daily Biotech Pulse: Merck's Keytruda Snags Another FDA Approval, DBV Announces Positive Peanut Allergy Study Findings, Applied Genetic Soars On Trial Results",mildly bullish,0.0,0.758,0.242,0.7717
+2020-01-10 17:55:00+00:00,"'California Gov. Gavin Newsom wants the state to become the first to create its own generic drug label, an attempt to create more competition and bring down prices.' -Axios, From Earlier",neutral,0.0,0.873,0.127,0.4939
+2020-01-23 14:54:00+00:00,"UBS Maintains Buy on Merck & Co, Raises Price Target to $99",mildly bullish,0.0,1.0,0.0,0.0
+2020-01-24 12:43:00+00:00,"The Daily Biotech Pulse: FDA Nod For Epizyme, Sonoma Explores Options For Dermatology Business, Roche's Cancer Drug Flunks Study",mildly bearish,0.298,0.702,0.0,-0.802
+2020-01-24 16:40:00+00:00,"Shares of several companies in the healthcare and pharmaceutical space are trading lower, not currently seeing sector-specific news. NOTE: The global spread of the Wuhan coronavirus has caused equities across to sell off.",mildly bearish,0.062,0.876,0.062,0.0
+2020-01-27 11:51:00+00:00,Merck's DIFICID Receives FDA Approval to Treat Clostridioides in Children Aged Six Months and Older,mildly bullish,0.0,0.691,0.309,0.7003
+2020-01-27 12:06:00+00:00,A Peek Into The Markets: US Stock Futures Down; Dow Futures Tumble Over 400 Points,strongly bearish,0.0,1.0,0.0,0.0
+2020-01-28 14:39:00+00:00,Turnaround Tuesday? Stocks Look To Bounce Back As Apple Earnings Loom Later,mildly bullish,0.147,0.853,0.0,-0.2263
+2020-02-02 18:04:00+00:00,"The Week Ahead In Biotech: Merck, Bristol-Myers Earnings, Conference Presentations In Focus",neutral,0.0,1.0,0.0,0.0
+2020-02-03 18:30:00+00:00,Attention Biotech Investors: Mark Your Calendar For These February PDUFA Dates,neutral,0.0,1.0,0.0,0.0
+2020-02-05 11:48:00+00:00,"Merck & Co Q4 Adj. EPS $1.16 Beats $1.15 Estimate, Sales $11.87B Miss $11.98B Estimate",mildly bearish,0.11,0.89,0.0,-0.1531
+2020-02-05 15:00:00+00:00,"Earnings Bonanza: Results Keep Pouring In, With Investors Looking Over Merck, Disney",neutral,0.0,1.0,0.0,0.0
+2020-02-08 16:45:00+00:00,"Barron's Picks And Pans: GM, Kraft Heinz, Tesla, Under Armour And More",neutral,0.0,1.0,0.0,0.0
+2020-02-11 12:23:00+00:00,"The Daily Biotech Pulse: LogicBio Slapped With Clinical Hold, Agile Inks Debt Deal Ahead of Twirla Approval, Gilead Builds Stake In Sierra Oncology",neutral,0.094,0.789,0.117,0.1531
+2020-02-19 12:21:00+00:00,"The Daily Biotech Pulse: FDA Snub For Merck, Priority Review For Roche's Tecentriq sBLA",mildly bearish,0.177,0.823,0.0,-0.4215
+2020-02-20 16:35:00+00:00,Why Merck Has Had Underwhelming Start To 2020,mildly bearish,0.0,1.0,0.0,0.0
+2020-02-23 23:38:00+00:00,The Week Ahead In Biotech: Biopharma Earnings Pick Up Pace,neutral,0.0,1.0,0.0,0.0
+2020-03-02 11:33:00+00:00,Merck's Phase 3 KEYNOTE-204 Trial of KEYTRUDA Met One of its Primary Endpoints,mildly bullish,0.0,1.0,0.0,0.0
+2020-03-11 11:15:00+00:00,Shares of several healthcare companies are trading lower. Movement appears market related amid selloff in equities. The global coronavirus outbreak has caused volatility in global markets and impacted stocks across sectors.,mildly bearish,0.066,0.868,0.066,0.0
+2020-03-12 11:37:00+00:00,"The Daily Biotech Pulse: AstraZeneca Faces Setback In Ovarian Cancer Study, Mallinckrodt To Explore COVID-19 Treatment, Imara IPO",neutral,0.206,0.794,0.0,-0.6597
+2020-03-24 12:42:00+00:00,"Argus Research Maintains Buy on Merck & Co, Lowers Price Target to $95",mildly bullish,0.12,0.88,0.0,-0.128
+2020-03-30 14:17:00+00:00,Shares of several healthcare companies are trading higher as the market rebounds on extended measures to help curb the coronavirus. NOTE: The sector could also be trading higher due to increased demand for medical products amid the coronavirus outbreak.,mildly bullish,0.034,0.805,0.161,0.6705
+2020-04-13 10:57:00+00:00,"AstraZeneca and Merck Announce Approval of KOSELUGO for Pediatric Patients Two Years and Older With Neurofibromatosis Type 1 and Symptomatic, Inoperable Plexiform Neurofibromas",mildly bullish,0.0,0.871,0.129,0.4767
+2020-04-16 10:08:00+00:00,"Next 45 Days Will Be 'Most Critical Period' For US, Says Alan Lancz Who Predicted 1987 and 2008 Crises",neutral,0.126,0.874,0.0,-0.3804
+2020-04-23 15:27:00+00:00,Shares of several healthcare companies are trading higher. Movement appears market-related as equities gain amid a rebound in oil prices.,mildly bullish,0.0,0.752,0.248,0.6808
+2020-04-27 10:50:00+00:00,Merck and Institute for Systems Biology Collaborate to Define Molecular Mechanisms of SARS-CoV-2 Infection and Identify Potential Prognostic Biomarkers for Coronavirus,mildly bullish,0.0,1.0,0.0,0.0
+2020-04-28 12:40:00+00:00,Merck shares are trading lower after the company issued FY20 guidance below consensus estimates.,mildly bearish,0.134,0.732,0.134,0.0
+2020-04-28 18:48:00+00:00,A CURE For The Common Earnings Play,neutral,0.0,0.676,0.324,0.34
+2020-04-29 15:04:00+00:00,"Merck Analysts Focus On Fundamentals, Keytruda Strength Following Guidance Cut",mildly bullish,0.158,0.602,0.241,0.2732
+2020-05-03 13:25:00+00:00,Attention Biotech Investors: Mark Your Calendar For These May PDUFA Dates,mildly bullish,0.0,1.0,0.0,0.0
+2020-05-13 21:06:00+00:00,Merck Reports KEYTRUDA Plus Chemo Showed Statistically Significant Improvement In Progression-Free Survival vs Chemo In Certain Patients With Metastatic Triple-Negative Breast Cancer,mildly bullish,0.15,0.614,0.235,0.128
+2020-05-21 17:18:00+00:00,51 Stocks Moving In Thursday's Mid-Day Session,neutral,0.0,1.0,0.0,0.0
+2020-05-21 18:30:00+00:00,Mid-Afternoon Market Update: Dow Falls 50 Points; L Brands Shares Spike Higher,neutral,0.0,0.82,0.18,0.296
+2020-05-22 09:26:00+00:00,64 Biggest Movers From Yesterday,neutral,0.0,1.0,0.0,0.0
+2020-05-22 17:50:00+00:00,"US Says Will Test Experimental Coronavirus Vaccines In 100,000+ People, Health Official Says Oxford Vaccine May Be Tested ""Side By Side"" With Moderna's Starting In July",mildly bullish,0.0,1.0,0.0,0.0
+2020-05-26 12:13:00+00:00,"Benzinga Pro's Top 5 Stocks To Watch For Tues., May 26, 2020: NVAX, EWJ, SNY, SOXX, MRK",neutral,0.0,0.893,0.107,0.2023
+2020-05-26 14:48:00+00:00,"Merck's Coronavirus Plan Of Attack: 2 Partnerships, M&A Deal Aimed At Treatment, Vaccine Development",mildly bullish,0.205,0.795,0.0,-0.4767
+2020-05-30 13:25:00+00:00,"The Week Ahead In Biotech: ASCO, Menlo And Merck FDA Decisions, IPOs In The Spotlight",neutral,0.0,1.0,0.0,0.0
+2020-06-01 12:39:00+00:00,'New Ebola epidemic' in northwest DR Congo: health ministry' -AFP,mildly bearish,0.0,1.0,0.0,0.0
+2020-06-11 14:22:00+00:00,"Shares of several healthcare companies are trading lower in sympathy with the overall market following an increase in coronavirus cases in some US states that have reopened, leading to concerns of a second wave of the virus.",mildly bearish,0.053,0.777,0.17,0.5859
